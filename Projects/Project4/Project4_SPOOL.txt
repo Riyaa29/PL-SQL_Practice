@@ -1,0 +1,55 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYYEARDAYHH:MI:SSAM')                                                                                                                                                         
+----------------------------------------------------------------------------------------------------------------------------------------                                                                
+16 October   2022 Twenty Twenty-Two Sunday    08:41:57 Pm                                                                                                                                               
+
+
+Procedure created.
+
+
+Procedure created.
+
+The area of a SQUARE size 2 by 2 is 4. It`s perimeter is 8.                                                                                                                                             
+
+PL/SQL procedure successfully completed.
+
+The area of a RECTANGLE size 2 by 4 is 8. It`s perimeter is 12.                                                                                                                                         
+
+PL/SQL procedure successfully completed.
+
+
+Function created.
+
+
+Procedure created.
+
+The area of a SQUARE size 2 by 2 is 4. It`s perimeter is 8.                                                                                                                                             
+
+PL/SQL procedure successfully completed.
+
+The area of a RECTANGLE size 2 by 4 is 8. It`s perimeter is 12.                                                                                                                                         
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Function created.
+
+
+Procedure created.
+
+The inventory_id: 1 with the price: 460.6 will be increase by 10% and the final price will be: 506.66                                                                                                   
+The inventory_id: 1 was updated with the new price: 506.66                                                                                                                                              
+The new price of the inventory id: 1 is: 506.66 the quantity on hand is: 16 , and the new value of the inventory is: 8106.56                                                                            
+
+PL/SQL procedure successfully completed.
+
+Invalid percentage of increase:-100                                                                                                                                                                     
+
+PL/SQL procedure successfully completed.
+
+Inventory ID 100 doesn't EXIST!                                                                                                                                                                         
+The inventory_id: 100 could not be updated.                                                                                                                                                             
+
+PL/SQL procedure successfully completed.
+

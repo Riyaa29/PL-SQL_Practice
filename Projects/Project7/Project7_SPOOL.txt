@@ -1,0 +1,63 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYYEARDAYHH:MI:SSAM')                                 
+--------------------------------------------------------------------------------
+23 November  2022 Twenty Twenty-Two Wednesday 01:06:32 Am                       
+
+Connected.
+
+Package created.
+
+CREATE SEQUENCE order_sequence START WITH 7
+                *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object 
+
+
+
+Package body created.
+
+
+PL/SQL procedure successfully completed.
+
+Will be available VERY VERY VERY SOON                                           
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+
+Will be available VERY VERY VERY SOON                                           
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Package created.
+
+
+Package body created.
+
+Consultant, skill does not exist. I'm inserting one...                          
+Consultant: Myers Mark
+Project Management: CERTIFIED                            
+
+PL/SQL procedure successfully completed.
+
+The row with Consultant ID and Skill ID already EXIST!                          
+Consultant: Myers Mark
+Project Management: CERTIFIED                            
+
+PL/SQL procedure successfully completed.
+
+The certification is different than 'Y' or 'N'.                                 
+
+PL/SQL procedure successfully completed.
+
+Consultant does not exist.                                                      
+
+PL/SQL procedure successfully completed.
+
+Skill does not exist.                                                           
+
+PL/SQL procedure successfully completed.
+

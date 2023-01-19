@@ -1,0 +1,239 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYYEARDAYHH:MI:SSAM')                                 
+--------------------------------------------------------------------------------
+31 October   2022 Twenty Twenty-Two Monday    03:31:07 Am                       
+
+Connected.
+
+Procedure created.
+
+---------------------------------------------                                   
+Faculty member: 1. Cox Kim, ASSO:                                               
+  Student: 1. Miller Sarah, 14-JUL-85, SR                                       
+  Student: 2. Umato Brian, 19-AUG-85, SR                                        
+  Student: 3. Black Daniel, 10-OCT-82, JR                                       
+  Student: 4. Mobley Amanda, 24-SEP-86, SO                                      
+  Student: 5. Sanchez Ruben, 20-NOV-86, SO                                      
+  Student: 6. Connoly Michael, 04-DEC-86, FR                                    
+---------------------------------------------                                   
+Faculty member: 2. Blanchard John, FULL:                                        
+  Student: 1. Miller Sarah, 14-JUL-85, SR                                       
+  Student: 2. Umato Brian, 19-AUG-85, SR                                        
+  Student: 3. Black Daniel, 10-OCT-82, JR                                       
+  Student: 4. Mobley Amanda, 24-SEP-86, SO                                      
+  Student: 5. Sanchez Ruben, 20-NOV-86, SO                                      
+  Student: 6. Connoly Michael, 04-DEC-86, FR                                    
+---------------------------------------------                                   
+Faculty member: 3. Williams Jerry, ASST:                                        
+  Student: 1. Miller Sarah, 14-JUL-85, SR                                       
+  Student: 2. Umato Brian, 19-AUG-85, SR                                        
+  Student: 3. Black Daniel, 10-OCT-82, JR                                       
+  Student: 4. Mobley Amanda, 24-SEP-86, SO                                      
+  Student: 5. Sanchez Ruben, 20-NOV-86, SO                                      
+  Student: 6. Connoly Michael, 04-DEC-86, FR                                    
+---------------------------------------------                                   
+Faculty member: 4. Sheng Laura, INST:                                           
+  Student: 1. Miller Sarah, 14-JUL-85, SR                                       
+  Student: 2. Umato Brian, 19-AUG-85, SR                                        
+  Student: 3. Black Daniel, 10-OCT-82, JR                                       
+  Student: 4. Mobley Amanda, 24-SEP-86, SO                                      
+  Student: 5. Sanchez Ruben, 20-NOV-86, SO                                      
+  Student: 6. Connoly Michael, 04-DEC-86, FR                                    
+---------------------------------------------                                   
+Faculty member: 5. Brown Philip, ASSO:                                          
+  Student: 1. Miller Sarah, 14-JUL-85, SR                                       
+  Student: 2. Umato Brian, 19-AUG-85, SR                                        
+  Student: 3. Black Daniel, 10-OCT-82, JR                                       
+  Student: 4. Mobley Amanda, 24-SEP-86, SO                                      
+  Student: 5. Sanchez Ruben, 20-NOV-86, SO                                      
+  Student: 6. Connoly Michael, 04-DEC-86, FR                                    
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+------------------------------------------------                                
+Consultant: 100. Myers Mark:                                                    
+  Skill: 1. VB .NET Programming                                                 
+         --- CERTIFIED ---                                                      
+  Skill: 3. Java Programming                                                    
+         --- CERTIFIED ---                                                      
+  Skill: 6. Oracle Developer Programming                                        
+         --- CERTIFIED ---                                                      
+  Skill: 9. Windows XP Network Administration                                   
+         --- CERTIFIED ---                                                      
+  Skill: 8. Windows NT/2000 Network Administration                              
+         --- NOT CERTIFIED ---                                                  
+------------------------------------------------                                
+Consultant: 101. Hernandez Sheila:                                              
+  Skill: 4. Project Management                                                  
+         --- NOT CERTIFIED ---                                                  
+  Skill: 5. Web Application Programming                                         
+         --- NOT CERTIFIED ---                                                  
+------------------------------------------------                                
+Consultant: 102. Zhang Brian:                                                   
+  Skill: 7. Oracle Database Administration                                      
+         --- CERTIFIED ---                                                      
+  Skill: 4. Project Management                                                  
+         --- CERTIFIED ---                                                      
+------------------------------------------------                                
+Consultant: 103. Carlson Sarah:                                                 
+  Skill: 1. VB .NET Programming                                                 
+         --- CERTIFIED ---                                                      
+  Skill: 6. Oracle Developer Programming                                        
+         --- CERTIFIED ---                                                      
+  Skill: 8. Windows NT/2000 Network Administration                              
+         --- CERTIFIED ---                                                      
+  Skill: 9. Windows XP Network Administration                                   
+         --- CERTIFIED ---                                                      
+------------------------------------------------                                
+Consultant: 104. Courtlandt Paul:                                               
+  Skill: 8. Windows NT/2000 Network Administration                              
+         --- NOT CERTIFIED ---                                                  
+  Skill: 9. Windows XP Network Administration                                   
+         --- CERTIFIED ---                                                      
+------------------------------------------------                                
+Consultant: 105. Park Janet:                                                    
+  Skill: 2. COBOL Programming                                                   
+         --- NOT CERTIFIED ---                                                  
+  Skill: 3. Java Programming                                                    
+         --- NOT CERTIFIED ---                                                  
+  Skill: 4. Project Management                                                  
+         --- CERTIFIED ---                                                      
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+--------------------------------------------------------------                  
+Item: 1. Men's Expedition Parka (Men's Clothing):                               
+  Inventory: 23. Spruce, S, $257.84, 114 left                                   
+  Inventory: 24. Spruce, M, $257.84, 17 left                                    
+  Inventory: 25. Spruce, L, $257.84, UNAVAILABLE                                
+  Inventory: 26. Spruce, XL, $257.84, 12 left                                   
+--------------------------------------------------------------                  
+Item: 2. 3-Season Tent (Outdoor Gear):                                          
+  Inventory: 1. Sky Blue, UNIVERSAL, $622.24, 16 left                           
+  Inventory: 2. Light Grey, UNIVERSAL, $319.3, 12 left                          
+--------------------------------------------------------------                  
+Item: 3. Women's Hiking Shorts (Women's Clothing):                              
+  Inventory: 3. Khaki, S, $36.78, 150 left                                      
+  Inventory: 4. Khaki, M, $36.78, 147 left                                      
+  Inventory: 5. Khaki, L, $36.78, UNAVAILABLE                                   
+  Inventory: 6. Navy, S, $36.78, 139 left                                       
+  Inventory: 7. Navy, M, $36.78, 137 left                                       
+  Inventory: 8. Navy, L, $36.78, 115 left                                       
+--------------------------------------------------------------                  
+Item: 4. Women's Fleece Pullover (Women's Clothing):                            
+  Inventory: 9. Eggplant, S, $73.63, 135 left                                   
+  Inventory: 10. Eggplant, M, $73.63, 168 left                                  
+  Inventory: 11. Eggplant, L, $73.63, 187 left                                  
+  Inventory: 12. Royal, S, $73.63, UNAVAILABLE                                  
+  Inventory: 13. Royal, M, $73.63, 124 left                                     
+  Inventory: 14. Royal, L, $73.63, 112 left                                     
+--------------------------------------------------------------                  
+Item: 5. Children's Beachcomber Sandals (Children's Clothing):                  
+  Inventory: 15. Turquoise, 10, $19.64, 121 left                                
+  Inventory: 16. Turquoise, 11, $19.64, 111 left                                
+  Inventory: 17. Turquoise, 12, $19.64, 113 left                                
+  Inventory: 18. Turquoise, 1, $19.64, 121 left                                 
+  Inventory: 19. Bright Pink, 10, $19.64, 148 left                              
+  Inventory: 20. Bright Pink, 11, $19.64, 137 left                              
+  Inventory: 21. Bright Pink, 12, $19.64, 134 left                              
+  Inventory: 22. Bright Pink, 1, $19.64, 123 left                               
+--------------------------------------------------------------                  
+Item: 6. Boy's Surf Shorts (Children's Clothing):                               
+  Inventory: 27. Blue, S, $19.59, 50 left                                       
+  Inventory: 28. Blue, M, $19.59, 100 left                                      
+  Inventory: 29. Blue, L, $19.59, 100 left                                      
+--------------------------------------------------------------                  
+Item: 7. Girl's Soccer Tee (Children's Clothing):                               
+  Inventory: 30. White, S, $24.54, 100 left                                     
+  Inventory: 31. White, M, $24.54, 100 left                                     
+  Inventory: 32. White, L, $24.54, 100 left                                     
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+--------------------------------------------------------------------------------
+Item: 1. Men's Expedition Parka (Men's Clothing), Value: $36871.12:             
+  Inventory: 23. Spruce, S, $257.84, 114 left                                   
+  Inventory: 24. Spruce, M, $257.84, 17 left                                    
+  Inventory: 25. Spruce, L, $257.84, UNAVAILABLE                                
+  Inventory: 26. Spruce, XL, $257.84, 12 left                                   
+--------------------------------------------------------------------------------
+Item: 6. Boy's Surf Shorts (Children's Clothing), Value: $4897.5:               
+  Inventory: 27. Blue, S, $19.59, 50 left                                       
+  Inventory: 28. Blue, M, $19.59, 100 left                                      
+  Inventory: 29. Blue, L, $19.59, 100 left                                      
+--------------------------------------------------------------------------------
+Item: 2. 3-Season Tent (Outdoor Gear), Value: $13787.44:                        
+  Inventory: 1. Sky Blue, universal, $622.24, 16 left                           
+  Inventory: 2. Light Grey, universal, $319.3, 12 left                          
+--------------------------------------------------------------------------------
+Item: 4. Women's Fleece Pullover (Women's Clothing), Value: $53455.38:          
+  Inventory: 9. Eggplant, S, $73.63, 135 left                                   
+  Inventory: 10. Eggplant, M, $73.63, 168 left                                  
+  Inventory: 11. Eggplant, L, $73.63, 187 left                                  
+  Inventory: 12. Royal, S, $73.63, UNAVAILABLE                                  
+  Inventory: 13. Royal, M, $73.63, 124 left                                     
+  Inventory: 14. Royal, L, $73.63, 112 left                                     
+--------------------------------------------------------------------------------
+Item: 5. Children's Beachcomber Sandals (Children's Clothing), Value: $19797.12:
+  Inventory: 15. Turquoise, 10, $19.64, 121 left                                
+  Inventory: 16. Turquoise, 11, $19.64, 111 left                                
+  Inventory: 17. Turquoise, 12, $19.64, 113 left                                
+  Inventory: 18. Turquoise, 1, $19.64, 121 left                                 
+  Inventory: 19. Bright Pink, 10, $19.64, 148 left                              
+  Inventory: 20. Bright Pink, 11, $19.64, 137 left                              
+  Inventory: 21. Bright Pink, 12, $19.64, 134 left                              
+  Inventory: 22. Bright Pink, 1, $19.64, 123 left                               
+--------------------------------------------------------------------------------
+Item: 3. Women's Hiking Shorts (Women's Clothing), Value: $25304.64:            
+  Inventory: 3. Khaki, S, $36.78, 150 left                                      
+  Inventory: 4. Khaki, M, $36.78, 147 left                                      
+  Inventory: 5. Khaki, L, $36.78, UNAVAILABLE                                   
+  Inventory: 6. Navy, S, $36.78, 139 left                                       
+  Inventory: 7. Navy, M, $36.78, 137 left                                       
+  Inventory: 8. Navy, L, $36.78, 115 left                                       
+--------------------------------------------------------------------------------
+Item: 7. Girl's Soccer Tee (Children's Clothing), Value: $7362:                 
+  Inventory: 30. White, S, $24.54, 100 left                                     
+  Inventory: 31. White, M, $24.54, 100 left                                     
+  Inventory: 32. White, L, $24.54, 100 left                                     
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+Consultant: 104. Courtlandt Paul:                                               
+---------------------------------------------------                             
+Skill: 8. Windows NT/2000 Network Administration                                
+       OLD status: --- NOT CERTIFIED ---                                        
+       NEW status: --- NOT CERTIFIED ---                                        
+---------------------------------------------------                             
+Skill: 9. Windows XP Network Administration                                     
+       OLD status: --- CERTIFIED ---                                            
+       NEW status: --- NOT CERTIFIED ---                                        
+---------------------------------------------------                             
+
+PL/SQL procedure successfully completed.
+
+Consultant: 102. Zhang Brian:                                                   
+---------------------------------------------------                             
+INCORRECT Skill Status!                                                         
+
+PL/SQL procedure successfully completed.
+
+INCORRECT Consultant ID!                                                        
+
+PL/SQL procedure successfully completed.
+

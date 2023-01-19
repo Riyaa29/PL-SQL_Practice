@@ -1,0 +1,52 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYYEARDAYHH:MI:SSAM')                                 
+--------------------------------------------------------------------------------
+30 November  2022 Twenty Twenty-Two Wednesday 03:33:00 Am                       
+
+Connected.
+
+Package created.
+
+ CREATE SEQUENCE NEW_CUSTOMER_SEQ START WITH 9 INCREMENT BY 1
+                 *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object 
+
+
+
+   NEXTVAL                                                                      
+----------                                                                      
+       149                                                                      
+
+
+Package body created.
+
+
+PL/SQL procedure successfully completed.
+
+DATA SUCCESFULLY ADDED INTO THE TABLE                                           
+
+PL/SQL procedure successfully completed.
+
+CUSTOMER ID IS ALREADY EXIST IN THE TABLE                                       
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Package created.
+
+ CREATE SEQUENCE STUDENT_SEQUENCE START WITH 7 INCREMENT BY 1
+                 *
+ERROR at line 1:
+ORA-00955: name is already used by an existing object 
+
+
+
+   NEXTVAL                                                                      
+----------                                                                      
+        47                                                                      
+
+
+    OUTPUT                                                                      
+----------                        

@@ -1,0 +1,95 @@
+Connected.
+USER is "SYS"
+DROP USER Riya29 CASCADE
+*
+ERROR at line 1:
+ORA-01940: cannot drop a user that is currently connected 
+
+
+CREATE USER Riya29 IDENTIFIED BY 123
+            *
+ERROR at line 1:
+ORA-01920: user name 'RIYA29' conflicts with another user or role name 
+
+
+
+Grant succeeded.
+
+Connected.
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYYEARDAYHH:MI:SSAM')                                 
+--------------------------------------------------------------------------------
+21 September 2022 Twenty Twenty-Two Wednesday 09:28:46 Pm                       
+
+
+Procedure created.
+
+Three time of 3 is 9 !                                                          
+
+PL/SQL procedure successfully completed.
+
+Three time of 9 is 27 !                                                         
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+The temperature from 15 Celsius to Fahrenheit is 59 !                           
+
+PL/SQL procedure successfully completed.
+
+The temperature from 20 Celsius to Fahrenheit is 68 !                           
+
+PL/SQL procedure successfully completed.
+
+The temperature from 5 Celsius to Fahrenheit is 41 !                            
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+The temperature from 59 Fahrenheit to Celsius is 15 !                           
+
+PL/SQL procedure successfully completed.
+
+The temperature from 68 Fahrenheit to Celsius is 20 !                           
+
+PL/SQL procedure successfully completed.
+
+The temperature from 41 Fahrenheit to Celsius is 5 !                            
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+For the price of $100 You will have to pay $5 GST and $9.98 QST for a total of  
+$14.98. The GRAND TOTAL IS $114.98.                                             
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+The area of a 5 by 2 rectangle is 10 its perimeter is 14.                       
+
+PL/SQL procedure successfully completed.
+
+
+Function created.
+
+
+15 Celsius in Fahrenheit 20 Celsius in Fahrenheit 5 Celsius in Fahrenheit       
+------------------------ ------------------------ -----------------------       
+                      59                       68                      41       
+
+
+Function created.
+
+
+59 Fahrenheit in Celsius 68 Fahrenheit in Celsius 41 Fahrenheit in Celsius      
+------------------------ ------------------------ ------------------------      
+                      15                       20                        5      
+

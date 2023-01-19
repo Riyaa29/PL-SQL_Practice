@@ -1,0 +1,189 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYYEARDAYHH:MI:SSAM')                                 
+--------------------------------------------------------------------------------
+07 December  2022 Twenty Twenty-Two Thursday  04:12:27 Am                       
+
+Connected.
+DROP SEQUENCE c_mod_sequence
+              *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+
+Sequence created.
+
+DROP TABLE c_mod CASCADE CONSTRAINTS
+           *
+ERROR at line 1:
+ORA-00942: table or view does not exist 
+
+
+
+Table created.
+
+
+Trigger created.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+Connected.
+
+1 row updated.
+
+
+Commit complete.
+
+Connected.
+
+1 row updated.
+
+
+Commit complete.
+
+Connected.
+
+  C_MOD_ID UPDATING_USER        DATE_UPDATED                                    
+---------- -------------------- ------------------                              
+         1 SCOTT                08-DEC-22                                       
+         2 DES03                08-DEC-22                                       
+
+
+Revoke succeeded.
+
+
+Revoke succeeded.
+
+Connected.
+DROP SEQUENCE order_line_audit_seq
+              *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+
+Sequence created.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+Connected.
+UPDATE des02.ORDER_LINE
+             *
+ERROR at line 1:
+ORA-01858: a non-numeric character was found where a numeric was expected
+ORA-06512: at "DES02.ORDER_LINE_TRIGGER", line 6
+ORA-04088: error during execution of trigger 'DES02.ORDER_LINE_TRIGGER' 
+
+
+
+Commit complete.
+
+INSERT INTO des02.ORDER_LINE
+                  *
+ERROR at line 1:
+ORA-01858: a non-numeric character was found where a numeric was expected
+ORA-06512: at "DES02.ORDER_LINE_TRIGGER", line 3
+ORA-04088: error during execution of trigger 'DES02.ORDER_LINE_TRIGGER' 
+
+
+
+Commit complete.
+
+Connected.
+DELETE FROM des02.ORDER_LINE
+                  *
+ERROR at line 1:
+ORA-01858: a non-numeric character was found where a numeric was expected
+ORA-06512: at "DES02.ORDER_LINE_TRIGGER", line 9
+ORA-04088: error during execution of trigger 'DES02.ORDER_LINE_TRIGGER' 
+
+
+
+Commit complete.
+
+Connected.
+
+no rows selected
+
+
+Revoke succeeded.
+
+
+Revoke succeeded.
+
+Connected.
+DROP SEQUENCE order_line_row_audit_seq
+              *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+
+Sequence created.
+
+
+Table dropped.
+
+
+Table created.
+
+
+Trigger created.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+Connected.
+UPDATE des02.ORDER_LINE
+             *
+ERROR at line 1:
+ORA-01858: a non-numeric character was found where a numeric was expected
+ORA-06512: at "DES02.ORDER_LINE_TRIGGER", line 6
+ORA-04088: error during execution of trigger 'DES02.ORDER_LINE_TRIGGER' 
+
+
+
+Commit complete.
+
+Connected.
+UPDATE des02.ORDER_LINE
+             *
+ERROR at line 1:
+ORA-01858: a non-numeric character was found where a numeric was expected
+ORA-06512: at "DES02.ORDER_LINE_TRIGGER", line 6
+ORA-04088: error during execution of trigger 'DES02.ORDER_LINE_TRIGGER' 
+
+
+
+Commit complete.
+
+Connected.
+
+no rows selected
+
+
+Revoke succeeded.
+
+
+Revoke succeeded.
+

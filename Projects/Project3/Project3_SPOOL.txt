@@ -1,0 +1,104 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYYEARDAYHH:MI:SSAM')                                 
+--------------------------------------------------------------------------------
+16 October   2022 Twenty Twenty-Two Sunday    08:41:43 Pm                       
+
+Connected.
+
+Procedure created.
+
+Employee number 7654 is MARTIN earning $15000 annualy with a commission of 1400 
+as a SALESMAN!                                                                  
+
+PL/SQL procedure successfully completed.
+
+Department  cannot be found                                                     
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+Inventory ID: 5
+Description: Women's Hiking Shorts
+Price: $29.95
+Color: Khaki
+In
+Stock: 0
+Total Value: $0                                                        
+
+PL/SQL procedure successfully completed.
+
+Inventory ID: 28
+Description: Boy's Surf Shorts
+Price: $15.95
+Color: Blue
+In    
+Stock: 100
+Total Value: $1595                                                   
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Function created.
+
+
+Procedure created.
+
+Student No.: 4
+Name: Amanda Mobley
+Date of Birthday: 24-SEP-86
+Age: 36          
+
+PL/SQL procedure successfully completed.
+
+Student No.: 6
+Name: Michael Connoly
+Date of Birthday: 04-DEC-86
+Age: 36        
+
+PL/SQL procedure successfully completed.
+
+Student with No. '2111' doesn't exist!                                          
+
+PL/SQL procedure successfully completed.
+
+Connected.
+
+Procedure created.
+
+Skill ID '9' of Consultant with ID '100' has been UPDATED!                                                                                                                                              
+Consultant: Myers Mark
+Skill: Windows XP Network Administration
+Certification: Y                                                                                                                        
+
+PL/SQL procedure successfully completed.
+
+Certification Status must be 'Y' or 'N'!                                                                                                                                                                
+
+PL/SQL procedure successfully completed.
+
+Skill ID '4' of Consultant with ID '102' has been UPDATED!                                                                                                                                              
+Consultant: Zhang Brian
+Skill: Project Management
+Certification: Y                                                                                                                                      
+
+PL/SQL procedure successfully completed.
+
+Skill ID '8' of Consultant with ID '100' has been UPDATED!                                                                                                                                              
+Consultant: Myers Mark
+Skill: Windows NT/2000 Network Administration
+Certification: N                                                                                                                   
+
+PL/SQL procedure successfully completed.
+
+Consultant ID or Skill ID is INVALID!                                                                                                                                                                   
+
+PL/SQL procedure successfully completed.
+
+Consultant ID or Skill ID is INVALID!                                                                                                                                                                   
+
+PL/SQL procedure successfully completed.
+

@@ -1,0 +1,106 @@
+Connected.
+USER is "SYS"
+DROP USER Riya29 CASCADE
+*
+ERROR at line 1:
+ORA-01940: cannot drop a user that is currently connected 
+
+
+CREATE USER Riya29 IDENTIFIED BY 123
+            *
+ERROR at line 1:
+ORA-01920: user name 'RIYA29' conflicts with another user or role name 
+
+
+
+Grant succeeded.
+
+Connected.
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYYEARDAYHH:MI:SSAM')                                 
+--------------------------------------------------------------------------------
+30 September 2022 Twenty Twenty-Two Friday    03:24:11 Pm                       
+
+
+Function created.
+
+
+ CALC(2,3)  CALC(4,5)                                                           
+---------- ----------                                                           
+         6         20                                                           
+
+
+Procedure created.
+
+For a rectangle of size 2 by 4 the area is 8.                                   
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+For a rectangle of equal size : 5 by 5 the area is a square : 25.               
+
+PL/SQL procedure successfully completed.
+
+For a rectangle of size 5 by 6 the area is 30.                                  
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+For 2 $ CAD, you will have : 200 YEN.                                           
+
+PL/SQL procedure successfully completed.
+
+For 2 $ CAD, you will have : 3 Euros.                                           
+
+PL/SQL procedure successfully completed.
+
+For 2 $ CAD, you will have : 20000 Viet Nam DONG.                               
+
+PL/SQL procedure successfully completed.
+
+For 2 $ CAD, you will have : 2000000 Endora ZIP.                                
+
+PL/SQL procedure successfully completed.
+
+
+Function created.
+
+
+Procedure created.
+
+Number 5 is Odd.                                                                
+
+PL/SQL procedure successfully completed.
+
+Number 6 is Even.                                                               
+
+PL/SQL procedure successfully completed.
+
+
+Procedure created.
+
+For 2 Euros, you will have : 45409.2 Vietnam DONG.                              
+
+PL/SQL procedure successfully completed.
+
+For 2 CAD, you will have : 2000000 Endora ZIP.                                  
+
+PL/SQL procedure successfully completed.
+
+For 2 YEN, you will have : .0188 CAD.                                           
+
+PL/SQL procedure successfully completed.
+
+For 2 Viet Nam DONG, you will have : .0122 YEN.                                 
+
+PL/SQL procedure successfully completed.
+
+For 2 Endora ZIP, you will have : .00000133333333333333333333333333333333333333 
+Euros.                                                                          
+
+PL/SQL procedure successfully completed.
+
