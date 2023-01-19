@@ -2,12 +2,7 @@
   @/tmp/oracle/Project5/Project5.sql
 */
 
-/*
-Name: Riya Nagpal
-ID: 2220097
-Date: 2022/10/16
-Description - Databases 2 - Project 5
-*/
+
 
 SPOOL /tmp/oracle/Project5/Project5_SPOOL.txt
 
