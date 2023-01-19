@@ -2,12 +2,6 @@
   @/tmp/oracle/Project9/Project9.sql
 */
 
-/*
-Name: Riya Nagpal
-ID: 2220097
-Date: 2022/11/22
-Description - Databases 2 - Project 9
-*/
 
 SPOOL /tmp/oracle/Project9/Project9_SPOOL.txt
 
