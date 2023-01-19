@@ -2,12 +2,6 @@
   @/tmp/oracle/Project3/Project3.sql
 */
 
-/*
-Name: Riya Nagpal
-ID: 2220097
-Date: 2022/09/23
-Description - Databases 2 - Project 3
-*/
 
 SPOOL /tmp/oracle/Project3/Project3_SPOOL.txt
 
